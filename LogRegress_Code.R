@@ -23,8 +23,7 @@
 ###   
 #  Feature Notes: Features were chosen by measuring how their 
 #  consideration effected the ROC curve result computed by 
-#  Kaggle and by comparing drivier distrubtions using the 
-#  Wilcoxon signed-rank test.
+#  Kaggle and by considering the results of Mann–Whitney U tests.
 ############################################################
 ############################################################
 ### 
